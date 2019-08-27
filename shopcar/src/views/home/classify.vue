@@ -2,7 +2,6 @@
   <div class="wrap">
     <Header>校园超市</Header>
     <div class="main">
-      <!-- <my-search>-->
       <class-search></class-search>
       <keep-alive >
         <div class="classification_conent">

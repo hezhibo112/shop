@@ -1,7 +1,6 @@
 <template>
     <div class="search" @click="toSeat">
         <p>
-            <!-- {{window.sessionStorage.getItem("address")}} -->
             {{local}}
         </p>
         <span >

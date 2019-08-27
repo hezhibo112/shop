@@ -7,8 +7,7 @@ Swiper.use({
   on: {
     init() {
       if (!this.params.pluginSwitch) return
-      console.log('init')
     },
-    // swiper callback...
+
   }
 })
